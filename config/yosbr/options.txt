@@ -1,0 +1,3 @@
+simulationDistance:5
+resourcePacks:["vanilla"]
+onboardAccessibility:true

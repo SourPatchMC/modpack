@@ -1,0 +1,13 @@
+{
+  "main_menu": {
+    "bottom_left": [
+      {
+        "text": "Sourpatch Modpack :3",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/SourPatchMC/modpack"
+        }
+      }
+    ]
+  }
+}
