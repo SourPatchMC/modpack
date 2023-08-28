@@ -177,6 +177,11 @@ hash = "3fe8ab29c47d04dd0a80b3886534bfa56bfcab9a490dbfdc96c4516db8c477b3"
 metafile = true
 
 [[files]]
+file = "mods/enchancement.pw.toml"
+hash = "e329a52a7234b2504062c3e22bc954acc6e470134b07069dfe4ec383078129e0"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "307cf5494a399c27691cfa361646574e103c80bc2869373fb8d75cd0e229ad83"
 metafile = true
@@ -344,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
