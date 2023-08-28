@@ -1,2 +1,46 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
+metafile = true
+
+[[files]]
+file = "mods/old-mc-logo.pw.toml"
+hash = "51104c4edcea7ece258ed464326721daa3f971b01104812d7442e1d9dce98e9e"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "7ffa8a332d46b6b412904e52353d7095b4709de406699d75bc31dc99ce416487"
+metafile = true
+
+[[files]]
+file = "mods/soulice.pw.toml"
+hash = "906b17ae4a03081592887a20295f95c62aefbe149d6d2002f1100be05a84e2d5"
+metafile = true
+
+[[files]]
+file = "mods/terracotta-knights.pw.toml"
+hash = "d26894ea18d3002e719249ff8368e8040e4d6a0e90a71824c52efb12aa406c08"
+metafile = true
+
+[[files]]
+file = "mods/ubl.pw.toml"
+hash = "3c6c5dfb99f0057cc359078b97ac306f66bd96b9209407b9400dafec7e118afc"
+metafile = true
+
+[[files]]
+file = "mods/wyd.pw.toml"
+hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
+metafile = true
