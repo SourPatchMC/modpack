@@ -9,6 +9,10 @@ file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
+file = "config/voicechat-server.properties"
+hash = "d546b6d6fe1a02060b8fea2bb621f2883ec1318bae38f6ec1feabd5919d547a1"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
