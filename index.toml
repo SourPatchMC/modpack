@@ -402,6 +402,11 @@ hash = "3c6c5dfb99f0057cc359078b97ac306f66bd96b9209407b9400dafec7e118afc"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "75ccdfd2f29fbe19c23602d87f3fe79276955878eda6705f138b393077cc482c"
+metafile = true
+
+[[files]]
 file = "mods/wyd.pw.toml"
 hash = "73a8bd0d5aebfc2a7884833806b1f2814c7e53fbe87aea03a658a8022dd6b6ef"
 metafile = true
