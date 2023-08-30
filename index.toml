@@ -9,24 +9,12 @@ file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "d16ef4b4dd9d1cfee220332e0246840ca3893a7c0cde99a299f717b63bd8dc2a"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "62b04eea085d727936f22e03d11ebadfae7490fd58da9048409b94c6ac21af9e"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
+file = "config/universal-graves/config.json"
+hash = "32673cd9573e23f6fa258fedd1ca2fc68e94d980dd55e6e66556c4c47d7d170d"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
-
-[[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "77663d8f0a7c937e80b3c7a01dab03c99f12ca954148ce4823d96d767ebb8933"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -77,20 +65,12 @@ file = "config/yosbr/config/modmenu.json"
 hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
 [[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
-
-[[files]]
-file = "config/yosbr/config/world-host.json5"
-hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -167,6 +147,11 @@ hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "8d67d2a51ee0f6f0160915e6d306ff5c2b986d0d0cdf3c3c44c2ce9f5ad1fa66"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
@@ -182,11 +167,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/ecotones.pw.toml"
-hash = "fabb60a79ae2594891e4aff2b2ccbae3bafb434e2b228a1204919f66fad1c845"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
 metafile = true
@@ -199,16 +179,6 @@ metafile = true
 [[files]]
 file = "mods/enchancement.pw.toml"
 hash = "e329a52a7234b2504062c3e22bc954acc6e470134b07069dfe4ec383078129e0"
-metafile = true
-
-[[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "307cf5494a399c27691cfa361646574e103c80bc2869373fb8d75cd0e229ad83"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
 metafile = true
 
 [[files]]
@@ -274,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
 metafile = true
 
 [[files]]
@@ -364,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/soulice.pw.toml"
 hash = "906b17ae4a03081592887a20295f95c62aefbe149d6d2002f1100be05a84e2d5"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
 metafile = true
 
 [[files]]
