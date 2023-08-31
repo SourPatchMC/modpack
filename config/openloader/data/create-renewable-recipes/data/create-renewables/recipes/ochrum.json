@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:ochrum",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

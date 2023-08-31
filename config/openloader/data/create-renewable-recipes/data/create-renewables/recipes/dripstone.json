@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:dripstone_block",
+      "count": 1
+    }
+  ]
+}

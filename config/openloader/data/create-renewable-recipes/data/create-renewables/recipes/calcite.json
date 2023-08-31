@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "create:limestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:calcite",
+      "count": 1
+    }
+  ]
+}
