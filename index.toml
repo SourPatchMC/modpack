@@ -77,6 +77,10 @@ file = "config/yosbr/options.txt"
 hash = "53557225a0ee839cce3dbd93cafc21221d47c192856cdd4a2ff7380cf3d072c4"
 
 [[files]]
+file = "datapacks/create-renewable-recipes.zip"
+hash = "abcaf097b82887d1f951deb4435ca028d625c7bd6ae4d3ef40f9dac19bb29b36"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
@@ -274,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/old-mc-logo.pw.toml"
 hash = "51104c4edcea7ece258ed464326721daa3f971b01104812d7442e1d9dce98e9e"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "e5043189bcb1fa1da04b85a96f8087cb22768a60ab5fa536d5e78f4518b0761b"
 metafile = true
 
 [[files]]
