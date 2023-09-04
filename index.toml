@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "06e675b7f3ef083d1aa8b2ed1db40a78242c7dd34d101536cbeaf4cb8e85521b"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "37ecf72c9c839caf55111ad97687b49402873b7e96a57a792a3cb9c06d5a1848"
 
@@ -89,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "0e08322161ff858b898c5b3c8888bc7ea1a6b1deea9cc68cb3b104e35db0357a"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "6583d0be69339fbe7909ed5f60f49255dfdefc116e8195f30b73a23d3c6ec5c2"
 metafile = true
 
 [[files]]
@@ -207,6 +216,11 @@ hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "cdfba6239ea3dd9c111ebdca03626c3f179f7794ee146d0f043a82064ea39be1"
 metafile = true
@@ -287,6 +301,11 @@ hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
 metafile = true
@@ -338,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
+file = "mods/taterzens.pw.toml"
+hash = "141027f068afd1f0cdd50f2521186bee79574a46efc503686dc2c1362a1c3c2b"
 metafile = true
 
 [[files]]
