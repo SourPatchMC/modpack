@@ -317,6 +317,10 @@ hash = "f7ad9ca76758d862d549656cf94fbf996e7fb77d0d96c498a8094a591b5f566b"
 metafile = true
 
 [[files]]
+file = "mods/sns-1.0.0+1.20.1.jar"
+hash = "b349e9c92aee51af24b870d8c93ce5f8c603b186e4047f3062be433e23adc759"
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1cb218af33e0eff1014b3e49ea1e0da40f14de23b18f95ed928a5495f3d2c334"
 metafile = true
